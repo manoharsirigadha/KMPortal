@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+  <Module Name="KMPortal_Branding"  Url ="Style Library" RootWebOnly ="TRUE">
+    <File Path="KMPortal_Branding\JS\app.js" Url="KMPortal_Branding/JS/app.js" Type ="GhostableInLibrary"  />
+    <File Path="KMPortal_Branding\JS\app.min.js" Url="KMPortal_Branding/JS/app.min.js" Type ="GhostableInLibrary" />
+    <File Path="KMPortal_Branding\JS\bootstrap.js" Url="KMPortal_Branding/JS/bootstrap.js" Type ="GhostableInLibrary" />
+    <File Path="KMPortal_Branding\JS\bootstrap.min.js" Url="KMPortal_Branding/JS/bootstrap.min.js" Type ="GhostableInLibrary" />
+    <File Path="KMPortal_Branding\JS\dropdownhover.min.js" Url="KMPortal_Branding/JS/dropdownhover.min.js" Type ="GhostableInLibrary" />
+    <File Path="KMPortal_Branding\JS\jquery.js" Url="KMPortal_Branding/JS/jquery.js" Type ="GhostableInLibrary" />
+    <File Path="KMPortal_Branding\JS\jquery.mCustomScrollbar.concat.min.js" Url="KMPortal_Branding/JS/jquery.mCustomScrollbar.concat.min.js" Type ="GhostableInLibrary" />
+    <File Path="KMPortal_Branding\JS\jquery.nanoscroller.min.js" Url="KMPortal_Branding/JS/jquery.nanoscroller.min.js" Type ="GhostableInLibrary" />
+    <File Path="KMPortal_Branding\JS\jquery.nicescroll.min.js" Url="KMPortal_Branding/JS/jquery.nicescroll.min.js" Type ="GhostableInLibrary" />
+    <File Path="KMPortal_Branding\JS\vmenuModule.js" Url="KMPortal_Branding/JS/vmenuModule.js" Type ="GhostableInLibrary" />
+    <File Path="KMPortal_Branding\CSS\animate.min.css" Url="KMPortal_Branding/CSS/animate.min.css" Type ="GhostableInLibrary" />
+    <File Path="KMPortal_Branding\CSS\bootstrap.css" Url="KMPortal_Branding/CSS/bootstrap.css" Type ="GhostableInLibrary" />
+    <File Path="KMPortal_Branding\CSS\bootstrap.min.css" Url="KMPortal_Branding/CSS/bootstrap.min.css" Type ="GhostableInLibrary" />
+    <File Path="KMPortal_Branding\CSS\CustomScrollbar.css" Url="KMPortal_Branding/CSS/CustomScrollbar.css" Type ="GhostableInLibrary" />
+    <File Path="KMPortal_Branding\CSS\CustomScrollbar.min.css" Url="KMPortal_Branding/CSS/CustomScrollbar.min.css" Type ="GhostableInLibrary" />
+    <File Path="KMPortal_Branding\CSS\dropdownhover.min.css" Url="KMPortal_Branding/CSS/dropdownhover.min.css" Type ="GhostableInLibrary" />
+    <File Path="KMPortal_Branding\CSS\global.css" Url="KMPortal_Branding/CSS/global.css" Type ="GhostableInLibrary" />
+    <File Path="KMPortal_Branding\CSS\global.min.css" Url="KMPortal_Branding/CSS/global.min.css" Type ="GhostableInLibrary" />
+    <File Path="KMPortal_Branding\CSS\mCSB_buttons.png" Url="KMPortal_Branding/CSS/mCSB_buttons.png" Type ="GhostableInLibrary" />
+    <File Path="KMPortal_Branding\Fonts\glyphicons-halflings-regular.eot" Url="KMPortal_Branding/Fonts/glyphicons-halflings-regular.eot" Type ="GhostableInLibrary" />
+    <File Path="KMPortal_Branding\Fonts\glyphicons-halflings-regular.ttf" Url="KMPortal_Branding/Fonts/glyphicons-halflings-regular.ttf" Type ="GhostableInLibrary" />
+    <File Path="KMPortal_Branding\Fonts\glyphicons-halflings-regular.woff" Url="KMPortal_Branding/Fonts/glyphicons-halflings-regular.woff" Type ="GhostableInLibrary" />
+    <File Path="KMPortal_Branding\Fonts\glyphicons-halflings-regular.woff2" Url="KMPortal_Branding/Fonts/glyphicons-halflings-regular.woff2" Type ="GhostableInLibrary" />
+    <File Path="KMPortal_Branding\Fonts\opensans-bold-webfont.eot" Url="KMPortal_Branding/Fonts/opensans-bold-webfont.eot"  Type ="GhostableInLibrary" />
+    <File Path="KMPortal_Branding\Fonts\opensans-bold-webfont.ttf" Url="KMPortal_Branding/Fonts/opensans-bold-webfont.ttf" Type ="GhostableInLibrary" />
+    <File Path="KMPortal_Branding\Fonts\opensans-bold-webfont.woff" Url="KMPortal_Branding/Fonts/opensans-bold-webfont.woff"  Type ="GhostableInLibrary" />
+    <File Path="KMPortal_Branding\Fonts\opensans-bold-webfont.woff2" Url="KMPortal_Branding/Fonts/opensans-bold-webfont.woff2" Type ="GhostableInLibrary" />
+    <File Path="KMPortal_Branding\Fonts\opensans-light-webfont.eot" Url="KMPortal_Branding/Fonts/opensans-light-webfont.eot" Type ="GhostableInLibrary" />
+    <File Path="KMPortal_Branding\Fonts\opensans-light-webfont.ttf" Url="KMPortal_Branding/Fonts/opensans-light-webfont.ttf" Type ="GhostableInLibrary" />
+    <File Path="KMPortal_Branding\Fonts\opensans-light-webfont.woff" Url="KMPortal_Branding/Fonts/opensans-light-webfont.woff" Type ="GhostableInLibrary" />
+    <File Path="KMPortal_Branding\Fonts\opensans-light-webfont.woff2" Url="KMPortal_Branding/Fonts/opensans-light-webfont.woff2" Type ="GhostableInLibrary" />
+    <File Path="KMPortal_Branding\Images\icons.png" Url="KMPortal_Branding/Images/icons.png" Type ="GhostableInLibrary" />
+    <File Path="KMPortal_Branding\JS\jquery.SPServices2013.01.min.js" Url="KMPortal_Branding/JS/jquery.SPServices2013.01.min.js" Type ="GhostableInLibrary" />
+    <File Path="KMPortal_Branding\JS\jquery-1.11.1.js" Url="KMPortal_Branding/JS/jquery-1.11.1.js" Type ="GhostableInLibrary" />
+    <File Path="KMPortal_Branding\JS\Notifications.js" Url="KMPortal_Branding/JS/Notifications.js" Type ="GhostableInLibrary" />
+  </Module>
+</Elements>

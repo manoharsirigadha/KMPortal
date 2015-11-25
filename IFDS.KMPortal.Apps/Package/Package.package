@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package dslVersion="1.0.0.0" 
+        Id="b977f0a1-669e-426e-bc92-de1968eef987" 
+        solutionId="b977f0a1-669e-426e-bc92-de1968eef987" 
+        xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel" 
+        name="IFDS.KMPortal.Apps"
+        sharePointProductVersion="15.0">
+  <features>
+        <featureReference itemId="9255b9aa-d5dd-45f8-83a3-223045dd1c6b" />
+  </features>
+</package>
