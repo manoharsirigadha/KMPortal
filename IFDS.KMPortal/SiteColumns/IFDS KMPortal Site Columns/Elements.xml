@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">  
+   <Field
+      ID="{c9c09b11-54a4-4b50-a13d-1269f37e6f53}"
+      Name="Answer"
+      DisplayName="Answer"
+      Type="Text"
+      Mult="TRUE"
+      Required="True"
+      Group="IFDS KMPortal Site Columns">
+  </Field>
+  <Field
+     ID="{FF6FB1E8-BB67-4CC1-A23D-73421A57B59E}"
+     Name="DepartmentTags"
+     DisplayName="Department Tags"
+     Type="TaxonomyFieldType"
+     ShowField="Term1033"
+     Required="True"
+     EnforceUniqueValues="FALSE"
+     Group="IFDS KMPortal Site Columns">
+  </Field>
+  <Field
+    ID="{7485BC0E-9DA3-4A98-A545-628D66C9E7CB}"
+    Name="ProductTags"
+    DisplayName="Product Tags"
+    Type="TaxonomyFieldType"
+    ShowField="Term1033"
+    Required="True"
+    EnforceUniqueValues="FALSE"
+    Group="IFDS KMPortal Site Columns">
+  </Field>
+</Elements>

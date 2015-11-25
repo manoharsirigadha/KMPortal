@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ProjectItem Type="Microsoft.VisualStudio.SharePoint.Module" DefaultFile="Elements.xml" SupportedTrustLevels="All" SupportedDeploymentScopes="Web, Site" xmlns="http://schemas.microsoft.com/VisualStudio/2010/SharePointTools/SharePointProjectItemModel">
+  <Files>
+    <ProjectItemFile Source="Elements.xml" Target="KMPortal_Branding\" Type="ElementManifest" />
+    <ProjectItemFile Source="JS\app.js" Target="KMPortal_Branding\JS\" Type="ElementFile" />
+    <ProjectItemFile Source="JS\app.min.js" Target="KMPortal_Branding\JS\" Type="ElementFile" />
+    <ProjectItemFile Source="JS\bootstrap.js" Target="KMPortal_Branding\JS\" Type="ElementFile" />
+    <ProjectItemFile Source="JS\bootstrap.min.js" Target="KMPortal_Branding\JS\" Type="ElementFile" />
+    <ProjectItemFile Source="JS\dropdownhover.min.js" Target="KMPortal_Branding\JS\" Type="ElementFile" />
+    <ProjectItemFile Source="JS\jquery.js" Target="KMPortal_Branding\JS\" Type="ElementFile" />
+    <ProjectItemFile Source="JS\jquery.mCustomScrollbar.concat.min.js" Target="KMPortal_Branding\JS\" Type="ElementFile" />
+    <ProjectItemFile Source="JS\jquery.nanoscroller.min.js" Target="KMPortal_Branding\JS\" Type="ElementFile" />
+    <ProjectItemFile Source="JS\jquery.nicescroll.min.js" Target="KMPortal_Branding\JS\" Type="ElementFile" />
+    <ProjectItemFile Source="JS\vmenuModule.js" Target="KMPortal_Branding\JS\" Type="ElementFile" />
+    <ProjectItemFile Source="CSS\animate.min.css" Target="KMPortal_Branding\CSS\" Type="ElementFile" />
+    <ProjectItemFile Source="CSS\bootstrap.css" Target="KMPortal_Branding\CSS\" Type="ElementFile" />
+    <ProjectItemFile Source="CSS\bootstrap.min.css" Target="KMPortal_Branding\CSS\" Type="ElementFile" />
+    <ProjectItemFile Source="CSS\CustomScrollbar.css" Target="KMPortal_Branding\CSS\" Type="ElementFile" />
+    <ProjectItemFile Source="CSS\CustomScrollbar.min.css" Target="KMPortal_Branding\CSS\" Type="ElementFile" />
+    <ProjectItemFile Source="CSS\dropdownhover.min.css" Target="KMPortal_Branding\CSS\" Type="ElementFile" />
+    <ProjectItemFile Source="CSS\global.css" Target="KMPortal_Branding\CSS\" Type="ElementFile" />
+    <ProjectItemFile Source="CSS\global.min.css" Target="KMPortal_Branding\CSS\" Type="ElementFile" />
+    <ProjectItemFile Source="CSS\mCSB_buttons.png" Target="KMPortal_Branding\CSS\" Type="ElementFile" />
+    <ProjectItemFile Source="Fonts\glyphicons-halflings-regular.eot" Target="KMPortal_Branding\Fonts\" Type="ElementFile" />
+    <ProjectItemFile Source="Fonts\glyphicons-halflings-regular.ttf" Target="KMPortal_Branding\Fonts\" Type="ElementFile" />
+    <ProjectItemFile Source="Fonts\glyphicons-halflings-regular.woff" Target="KMPortal_Branding\Fonts\" Type="ElementFile" />
+    <ProjectItemFile Source="Fonts\glyphicons-halflings-regular.woff2" Target="KMPortal_Branding\Fonts\" Type="ElementFile" />
+    <ProjectItemFile Source="Fonts\opensans-bold-webfont.eot" Target="KMPortal_Branding\Fonts\" Type="ElementFile" />
+    <ProjectItemFile Source="Fonts\opensans-bold-webfont.ttf" Target="KMPortal_Branding\Fonts\" Type="ElementFile" />
+    <ProjectItemFile Source="Fonts\opensans-bold-webfont.woff" Target="KMPortal_Branding\Fonts\" Type="ElementFile" />
+    <ProjectItemFile Source="Fonts\opensans-bold-webfont.woff2" Target="KMPortal_Branding\Fonts\" Type="ElementFile" />
+    <ProjectItemFile Source="Fonts\opensans-light-webfont.eot" Target="KMPortal_Branding\Fonts\" Type="ElementFile" />
+    <ProjectItemFile Source="Fonts\opensans-light-webfont.ttf" Target="KMPortal_Branding\Fonts\" Type="ElementFile" />
+    <ProjectItemFile Source="Fonts\opensans-light-webfont.woff" Target="KMPortal_Branding\Fonts\" Type="ElementFile" />
+    <ProjectItemFile Source="Fonts\opensans-light-webfont.woff2" Target="KMPortal_Branding\Fonts\" Type="ElementFile" />
+    <ProjectItemFile Source="Images\icons.png" Target="KMPortal_Branding\Images\" Type="ElementFile" />
+    <ProjectItemFile Source="JS\jquery.SPServices2013.01.min.js" Target="KMPortal_Branding\JS\" Type="ElementFile" />
+    <ProjectItemFile Source="JS\jquery-1.11.1.js" Target="KMPortal_Branding\JS\" Type="ElementFile" />
+    <ProjectItemFile Source="JS\Notifications.js" Target="KMPortal_Branding\JS\" Type="ElementFile" />
+  </Files>
+</ProjectItem>
